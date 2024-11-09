@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jynnie</h1>
-<h3 align="center">A soph in Computer Science :D</h3>
+<h1 align="center">Hi 👋, I'm JingYing</h1>
+<h3 align="center">A newbie Computer Science Student:D</h3>
 
-- 🌱 I’m currently learning **Java,HTML,Python,C++**
+- 🌱 I’m currently learning **Java and Python**
+- 🍀 I’m better in  **HTML and CSS**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Feel free to view my projects, *may not be perfect but 120% efforts*</h3>
 <p align="left">
 </p>
 
